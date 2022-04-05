@@ -14,9 +14,9 @@ const Home = () => {
         <div>
             <div className='md:flex justify-center items-center md:ml-18 home'>
                 <div className='laptop-baj flex flex-col items-start'>
-                    <h1 className='text-4xl font-bold text-cyan-600'>Laptop Bazar</h1>
-                    <p className='text-2xl text-justify'>Select Your Best Laptop On Your Prize. You Can Find Here ALL Type Of Laptop.</p>
-                    <button>Demo Here</button>
+                    <h1 className='text-4xl font-bold text-red-600 ml-5'>Laptop Bazar</h1>
+                    <p className='text-2xl text-justify ml-5'>Select Your Best Laptop On Your Prize. You Can Find Here ALL Type Of Laptop.</p>
+                    <button class="bg-cyan-400 hover:bg-cyan-600 px-10 mt-5 py-2 mb-20 text-white text-2xl font-semibold rounded ml-5">Demo Here</button>
                 </div>
                 <div className='laptop-img'>
                     <img src={laptop} alt=""/>
@@ -25,7 +25,7 @@ const Home = () => {
             </div>
             <div className='client-comment'>
                 <h1 className='text-4xl font-bold text-cyan-500'>Client Reviews(3)</h1>
-                <div className='md:flex justify-center items-center gap-8 mt-8 mb-8'>
+                <div className='md:flex justify-center items-center gap-10 mt-10 mb-10'>
                     {
                         comments.map(comment =><Comment comments={comment} key={comment.id}></Comment>).slice(0,3)
                     }
