@@ -4,41 +4,41 @@
         "name": "Bashar",
         "comment": "amazing laptop!",
         "rating" : 5,
-        "img": "https://images.prismic.io/frameworkmarketplace/5dc5fc06-aec5-4f28-a924-0230aa91a360_Pre-Marketplace+-+image_02.jpg?auto=compress,format"
+        "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWVufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
     },
      {
         "id": 2,
         "name": "Robin",
         "comment": "Love Your product",
         "rating" : 5,
-        "img": "https://image.coolblue.be/840x473/content/066d98574cb6246982d680624eac107f"
+        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
      {
         "id": 3,
         "name": "Rahat",
         "comment": "The quality of the product is very good and you can buy it.",
         "rating" : 5,
-        "img": "https://5top.nl/wp-content/uploads/2020/04/Beste-laptop.jpg"
+        "img": "https://media.istockphoto.com/photos/fit-man-standing-outdoors-in-a-city-picture-id1299360127?b=1&k=20&m=1299360127&s=170667a&w=0&h=1Rvw_UPTnj1LkB543cuCjiLM0xbIdjjin0rw6yaL8bc="
     },
      {
         "id": 4,
         "name": "Sabiha",
         "comment": "Thanks for giving me good product. I am satisfied with it.",
         "rating" : 5,
-        "img": "https://image.coolblue.nl/840x473/content/4c091c63cbafacd8e04b5d43ac866a22"
+        "img": "https://jooinn.com/images/man-31.jpg"
     },
      {
         "id": 5,
         "name": "Tilottoma",
         "comment": "Wonderful products and Good",
         "rating" : 5,
-        "img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge_wm_brb/public/field/image/2021/01/hp-spectre-x360-14-hero3.jpg"
+        "img": "https://i.insider.com/5dcc135ce94e86714253af21?width=1000&format=jpeg&auto=webp"
     },
      {
         "id": 6,
         "name": "Asha",
         "comment": "It's satisfying experience",
         "rating" : 5,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6mYlsx5XmhNhPvCCP-wxib9o_LdrMIWdOqltVwXNhGdAjqxQSNdZkSrX8xXjZfl5B5c&usqp=CAU"
+        "img": "https://www.granadahoy.com/2022/02/07/la-pantalla-indiscreta/cine-y-series/Tom-Holland-Spider-Man-Miles-Morales_1654644660_151592154_667x375.jpg"
     }
 ]
