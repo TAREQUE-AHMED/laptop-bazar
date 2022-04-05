@@ -1,5 +1,15 @@
 # LAPTOP BAZAR
 
+## Website live-link : https://jocular-praline-420a93.netlify.app
+
+### Review of my website: 
+- This is laptop bazar website.In header part we see 5 item (Home, Review, DashBoard, Blogs, About)
+- In the Home page, will be first 2 columns design. In left column here website name and meaningful text about the website and right column here a simple laptop picture. 
+- In the Reviews page, we see all client comments reviews.
+- In the DashBoard page, we see 4 chart (simple line chart, stacked area chart, stacked bar chart and two level pie chart)
+- In the Blogs page, we see some  answer of question.
+- And last page (about), this page is not found (404) page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
