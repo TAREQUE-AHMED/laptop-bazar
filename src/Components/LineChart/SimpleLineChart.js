@@ -11,7 +11,7 @@ const SimpleLineChart = (data) => {
             <LineChart width={450} height={300} data={data}>
                 <Line type="monotone" dataKey='sell' stroke="#88884d8"></Line>
                 <Tooltip></Tooltip>
-                <XAxis dataKey={'month'}></XAxis>
+                <XAxis dataKey='month'></XAxis>
                 <YAxis></YAxis>
             </LineChart>
         </div>

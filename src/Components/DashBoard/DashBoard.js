@@ -11,13 +11,13 @@ const DashBoard = () => {
             "month": "Mar",
             "investment": 15000,
             "sell": 199,
-            "revenue": 2524
+            "revenue": 252254
         },
         {
             "month": "Apr",
             "investment": 25000,
             "sell": 152,
-            "revenue": 2540
+            "revenue": 254021
         },
         {
             "month": "May",
@@ -29,19 +29,19 @@ const DashBoard = () => {
             "month": "Jun",
             "investment": 15825,
             "sell": 258,
-            "revenue": 12586
+            "revenue": 125861
         },
         {
             "month": "Jul",
             "investment": 15285,
             "sell": 251,
-            "revenue": 10252
+            "revenue": 102520
         },
         {
             "month": "Aug",
             "investment": 25871,
             "sell": 67,
-            "revenue": 25874
+            "revenue": 258746
         }
     ];
     return (
