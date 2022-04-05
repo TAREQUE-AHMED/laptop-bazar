@@ -12,10 +12,10 @@ const Home = () => {
 
     return (
         <div>
-            <div>
-                <div>
-                    <h1>Laptop Bazar</h1>
-                    <p>Select Your Best Laptop On Your Prize. You Can Find Here ALl Type Of Laptop.</p>
+            <div className='md:flex justify-center items-center md:ml-18 home'>
+                <div className='laptop-baj flex flex-col items-start'>
+                    <h1 className='text-4xl font-bold text-cyan-600'>Laptop Bazar</h1>
+                    <p className='text-2xl text-justify text-gray-500'>Select Your Best Laptop On Your Prize. You Can Find Here ALl Type Of Laptop.</p>
                     <button>Demo Here</button>
                 </div>
                 <div className='laptop-img'>
@@ -24,8 +24,8 @@ const Home = () => {
                 </div>
             </div>
             <div className='client-comment'>
-                <h1>Client Reviews</h1>
-                <div>
+                <h1 className='text-4xl font-bold text-cyan-500'>Client Reviews(3)</h1>
+                <div className='md:flex justify-center items-center gap-8 mt-8 mb-8'>
                     {
                         comments.map(comment =><Comment comments={comment} key={comment.id}></Comment>).slice(0,3)
                     }

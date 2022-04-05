@@ -4,7 +4,7 @@ import './DashBoard.css';
 const DashBoard = () => {
     return (
         <div>
-            <h1>Bash Board</h1>
+            <h1>Dashboard</h1>
         </div>
     );
 };
