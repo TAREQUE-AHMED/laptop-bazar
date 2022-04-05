@@ -15,7 +15,7 @@ const Home = () => {
             <div className='md:flex justify-center items-center md:ml-18 home'>
                 <div className='laptop-baj flex flex-col items-start'>
                     <h1 className='text-4xl font-bold text-cyan-600'>Laptop Bazar</h1>
-                    <p className='text-2xl text-justify text-gray-500'>Select Your Best Laptop On Your Prize. You Can Find Here ALl Type Of Laptop.</p>
+                    <p className='text-2xl text-justify'>Select Your Best Laptop On Your Prize. You Can Find Here ALL Type Of Laptop.</p>
                     <button>Demo Here</button>
                 </div>
                 <div className='laptop-img'>
